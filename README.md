@@ -2,6 +2,8 @@
 
 ### Projet de session
 
+![Schéma du projet](schema.png)
+
 Le projet consiste à reproduire un pipeline de collecte, communication et traitement de données dans un contexte industriel. 
 
 Le procédé industriel est simulé par deux capteurs : un capteur de température et d'humidité **DHT11** et un capteur sonore **Electret MAX4466**. Ces deux capteurs sont chacun reliés à un **Arduino**.
