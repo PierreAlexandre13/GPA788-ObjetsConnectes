@@ -1,0 +1,6 @@
+{
+    "sketch": "test_calculateur_Leq.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM0"
+}

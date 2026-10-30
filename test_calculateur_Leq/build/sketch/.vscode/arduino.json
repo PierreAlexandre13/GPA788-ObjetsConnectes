@@ -1,0 +1,7 @@
+#line 1 "/home/pa/Documents/ETS/objetsConnectes/labo4/test_calculateur_Leq/.vscode/arduino.json"
+{
+    "sketch": "test_calculateur_Leq.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM0"
+}

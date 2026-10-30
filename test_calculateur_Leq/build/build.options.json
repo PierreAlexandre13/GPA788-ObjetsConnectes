@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..,../../..,../..,../..,../..,../..,../..,../..,../..,../../..,../../../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "/home/pa/.arduino15/packages",
+  "otherLibrariesFolders": "/home/pa/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/home/pa/Documents/ETS/objetsConnectes/labo4/test_calculateur_Leq"
+}
