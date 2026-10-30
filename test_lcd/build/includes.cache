@@ -1,0 +1,37 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/pa/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/pa/.arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard"
+  },
+  {
+    "Sourcefile": "/home/pa/Documents/ETS/objetsConnectes/labo3/test_lcd/build/sketch/test_lcd.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "/home/pa/Arduino/libraries/LiquidCrystal/src"
+  },
+  {
+    "Sourcefile": "/home/pa/Documents/ETS/objetsConnectes/labo3/test_lcd/build/sketch/test_lcd.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/pa/Documents/ETS/objetsConnectes/labo3/test_lcd/build/sketch/DHTLib_GPA788.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/pa/Documents/ETS/objetsConnectes/labo3/test_lcd/build/sketch/TimerOne.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/pa/Arduino/libraries/LiquidCrystal/src/LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

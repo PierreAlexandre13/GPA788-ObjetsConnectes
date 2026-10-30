@@ -1,0 +1,7 @@
+#line 1 "/home/pa/Documents/ETS/objetsConnectes/labo3/test_lcd/.vscode/arduino.json"
+{
+    "sketch": "test_lcd.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM0"
+}
