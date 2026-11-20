@@ -1,0 +1,6 @@
+{
+    "sketch": "max-2.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM1"
+}

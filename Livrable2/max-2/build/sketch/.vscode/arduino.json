@@ -1,0 +1,7 @@
+#line 1 "/home/pa/Documents/ETS/objetsConnectes/labo7/max-2/.vscode/arduino.json"
+{
+    "sketch": "max-2.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM1"
+}
