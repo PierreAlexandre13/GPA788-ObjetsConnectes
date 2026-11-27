@@ -24,3 +24,20 @@ Dans le dossier *test_lcd* se trouve le code pour le capteur DHT11 qui capte la 
 
 Pour plus d'informations sur le fonctionnement de ces programmes et nos choix d'implémentation, se référer au rapport du livrable 1. 
 
+
+#### Livrable 2
+
+Ce livrable ce concentre sur l'implémentation de la communication I2C entre le coordonnateur Raspberry Pi et les noeuds Arduino. 
+
+Le code pour le coordonnateur se trouve dans le dossier éponyme.
+Pour le noeud relié au capteur de température et d'humidité relative, le code se trouve dans le dossier "dht11-2". Son adresse sur le bus I2C est 0x45.
+Pour le noeud relié au capteur sonore, le code se trouve dans le dossier "max-2". Son adresse sur le bus I2C est 0x44.
+
+Pour plus de détails sur l'implémentation, se référer au rapport du livrable 2. 
+
+
+#### Livrable 3
+
+C'est le livrable final de ce projet. Il regroupe les deux livrables précédents et implémente en plus la communication REST avec le service d'infonuagique "ThinkSpeak" et le pipeline de prédictions des données sonores avec l'algorithme d'apprentissage profond LSTM optimisé pour notre cas d'usage et entrainé sur nos données.
+
+Pour plus de détails sur ces implémentations, se référer au rapport du livrable 3. 
